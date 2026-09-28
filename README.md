@@ -99,8 +99,8 @@ install.packages(c("ipumsr", "dplyr", "ggplot2", "scales"))
 1. Register at [cps.ipums.org](https://cps.ipums.org) and build an extract with the
    variables listed above, for ASEC samples 2019–2025.
 2. Download the `.xml` (DDI) and `.dat.gz` files into the project directory.
-3. Update the file path in `analysis_script.R` if needed.
-4. Run the script in RStudio. Plots save to an `outputs/` subfolder.
+3. Update the file path in the R script if needed.
+4. Run the script in RStudio.
 
 ## Citation
 
