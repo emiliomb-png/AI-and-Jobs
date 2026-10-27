@@ -72,21 +72,26 @@ rest of the labor market?
 
 ## Key findings
 
-- Tech unemployment (both ages 22–29 and 30+) rises steadily starting in 2022, while
-  unemployment in other occupations moves in the opposite direction (falling from its
-  pandemic-era peak).
-- Tech's share of total employment stays roughly flat (3.5–4.2%) across the period. This
-  looks like rising unemployment risk within tech, not tech jobs disappearing.
-- Overall youth labor force participation rises and holds steady over the same period, ruling out
-  a broad "young people leaving the workforce" explanation.
+- Among ages 22–29, tech unemployment stayed between roughly 1% and 2% from 2019 to 2022,
+  jumped to about 3.6% in 2023, and reached roughly 4% by 2025. Among ages 30+, the 2022
+  reading is an unusually low trough, so 2023 is close to its 2020–21 level and the clear
+  rise comes in 2024–2025. Between 2022 and 2023, unemployment in other occupations edged down.
+- Tech's share of total employment stays roughly flat (3.5–4.2%). This rules out a collapse
+  of tech employment, but not a slowdown in hiring, which would also show up as rising
+  unemployment with a stable share.
+- Youth labor force participation rises to a peak in 2023 and then holds steady, which
+  argues against a broad "young people leaving the workforce" explanation.
 
 ## Limitations
 
-- **Correlation, not causation.** The 2022 Federal Reserve rate-hiking cycle and the
-  well-documented unwinding of pandemic-era tech overhiring (large-scale layoffs at Meta,
-  Amazon, Google, and others in 2022–2023) could produce the same pattern with no AI
-  involvement whatsoever. This dataset does not separate these explanations from an AI-driven
-  effect.
+- **Correlation, not causation.** The Federal Reserve's 2022 rate-hiking cycle and the
+  unwinding of pandemic-era tech overhiring (large layoffs at Meta, Amazon, Google, and others
+  in 2022–2023) could produce the same pattern with no AI involvement. This dataset cannot
+  separate these explanations from an AI-driven effect.
+- **Annual timing.** The ASEC is fielded in March, so the 2022 observation predates ChatGPT's
+  late-November 2022 launch. The sharp increase falls between the March 2022 and March 2023
+  surveys, a window that also contains the first year of Fed rate hikes and the late-2022
+  layoffs. With one reading per year, the timing favors no explanation over another.
 
 ## Requirements
 
